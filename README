@@ -10,9 +10,7 @@ muzukashi
 	</head>
 
 	<body>
-
 		<!-- ナビゲーションバー -->
-		<div class="navbar">
 			<div class="navbar-inner">
 				<div class="container">
 					<ul class="nav">
@@ -23,8 +21,7 @@ muzukashi
 			</div> 
 		</div>
 
-		<!-- ボディ -->
-		<div class="container">
+		<div class="testcontainer">
 			<div class="hero-unit">
 			    <div class="row">
 					<div class="span4">
@@ -32,7 +29,6 @@ muzukashi
 					</div>
 					<div class="span6">
 						<h1>のらねこ日和。</h1>
-						<p> </p>
 						<p>Since 2012.03.10<br />
 						<b>Work Time</b>： Probably Eight Hour.<br />
 						<b>Work Spec</b>： Mac OS X 10.7.2 & Firefox</p>
@@ -45,7 +41,11 @@ muzukashi
     				<p>bootstrapを使ってみるテスト中のサイト。</br>
     				さて、自分のサイトは…どの仕組みで作ろう。Wordpress？ Bootstrap？ 普通に作る？</p>
     		</div>
+						<p> </p>
+						<p> </p>
     		<div class="span6">
+						<p> </p>
+						o<p> </p>
     			<h2>About Me</h2>
     			<p>基本行動言動共に子供。<br />
     			今はとにかく「自分がどうしたいのか」を一番にもって、それを基準に行動。</p>
@@ -58,7 +58,6 @@ muzukashi
 					</div>
 				</div>
     		</div>
-    		<div class="span12">
     			<h2>Miscellaneous Notes</h2>
     			<p>こっちも勉強したいが、買ったばかりのiPhoneもいじってみたい衝撃に教われる。
     			いやいや、それやりだしたらこれ本気で進まなくなりますね。両方に興味あるって、ある意味困る。<br />
